@@ -1,0 +1,10 @@
+console.log("Hello INDIAN from Type-Script");
+let ss: number = 7;
+let sn: string = "INDIAN";
+let st: boolean = true;
+let sm: string = "SHIVAM SHUKLA";
+console.log(ss,sn,st,sm);
+let ar: Array<number>=[12,23,34,56,78];
+console.log(ar);
+let as: Array<string>=["Pune","Mumbai","INDORE"];
+console.log(as);

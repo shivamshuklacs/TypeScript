@@ -1,0 +1,10 @@
+console.log("Hello INDIAN from Type-Script");
+var ss = 7;
+var sn = "INDIAN";
+var st = true;
+var sm = "SHIVAM SHUKLA";
+console.log(ss, sn, st, sm);
+var ar = [12, 23, 34, 56, 78];
+console.log(ar);
+var as = ["Pune", "Mumbai", "INDORE"];
+console.log(as);
